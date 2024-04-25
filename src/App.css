@@ -1,0 +1,11 @@
+.water-effect {
+  overflow: hidden; /* To'lqinlar ko'rinishi uchun */
+  position: relative;
+}
+
+.water-effect div {
+  text-align: center;
+  line-height: 900px;
+  font-size: 1.9rem;
+  
+}
